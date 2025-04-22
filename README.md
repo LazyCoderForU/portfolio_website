@@ -1,7 +1,7 @@
 # 📌 Personal Portfolio Website
 
 <div style="display: flex; align-items: center;">
-  <img src="assets/images/profile.png" alt="Profile Picture" style="border-radius: 50%; width: 120px; margin-right: 20px;"/>
+  <img src="assets/images/profile.jpg" alt="Profile Picture" style="border-radius: 50%; width: 120px; margin-right: 20px;"/>
   <div>
     <h2>Brajesh Kumar</h2>
     <p>Machine Learning Engineer | AI Enthusiast</p>
