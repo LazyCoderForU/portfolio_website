@@ -1,14 +1,14 @@
-![Profile Picture](/portfolio/assets/images/profile.jpg)
+![Profile Picture](assets/images/profile.jpg)
 
 # 🌟 Brajesh Kumar's Portfolio 🌟  
 **Machine Learning Engineer | AI Enthusiast** 
 ---
 
 ## 📞 Contact & Links  
-- ![Email Icon](assets/images/email.png) 📧 Email: [brajesh350194@gmail.com](mailto:brajesh350194@gmail.com)  
+- ![Email Icon](assets/images/gmail.png) 📧 Email: [brajesh350194@gmail.com](mailto:brajesh350194@gmail.com)  
 - ![LinkedIn Icon](assets/images/linkedin.png) 💼 LinkedIn: [brajesh-gupta](https://linkedin.com/in/brajesh-gupta)  
 - ![GitHub Icon](assets/images/github.png) 🐙 GitHub: [@LazyCoderForU](https://github.com/LazyCoderForU)  
-- ![Phone Icon](assets/images/phone.png) 📱 Mobile: +91-7979911811  
+- ![Phone Icon](assets/images/phone.jpeg) 📱 Mobile: +91-7979911811  
 
 ---
 
@@ -32,19 +32,19 @@ My main interests lie in **Natural Language Processing** and **Data Science** �
 
 ## 🛠️ Tech Stack  
 
-| ![Python](/portfolio/assets/images/python.jpg) | ![C](/portfolio/assets/images/c.png) | ![Java](/portfolio/assets/images/java.png) | ![Docker](/portfolio/assets/images/docker.png) |  
+| ![Python](assets/images/python.jpg) | ![C](assets/images/c.png) | ![Java](assets/images/java.png) | ![Docker](assets/images/docker.png) |  
 |:----------------:|:--------------:|:-------------:|:----------------:|
 | Python | C | Java | Docker |
 
-| ![TensorFlow](/portfolio/assets/images/tensorflow.png) | ![NumPy](/portfolio/assets/images/numpy.png) | ![Pandas](/portfolio/assets/images/pandas.png) | ![scikit-learn](/portfolio/assets/images/sk%20learn.png) |
+| ![TensorFlow](assets/images/tensorflow.png) | ![NumPy](assets/images/numpy.png) | ![Pandas](assets/images/pandas.png) | ![scikit-learn](assets/images/sk%20learn.png) |
 |:----------------:|:--------------:|:--------------:|:------------------:|
 | TensorFlow | NumPy | Pandas | scikit-learn |
 
-| ![Git](/portfolio/assets/images/git.png) | ![GitHub](/portfolio/assets/images/github.png) | ![Jupyter](/portfolio/assets/images/jupyter.png) | ![Anaconda](/portfolio/assets/images/anaconda.png) |
+| ![Git](assets/images/git.png) | ![GitHub](assets/images/github.png) | ![Jupyter](assets/images/jupyter.png) | ![Anaconda](assets/images/anaconda.png) |
 |:---------------:|:----------------:|:----------------:|:------------------:|
 | Git | GitHub | Jupyter | Anaconda |
 
-| ![Google Colab](/portfolio/assets/images/colab.png) | ![Notion](/portfolio/assets/images/notion.png) | ![C++](/portfolio/assets/images/ISO_C++_Logo.svg.png) |
+| ![Google Colab](assets/images/colab.png) | ![Notion](assets/images/notion.png) | ![C++](assets/images/ISO_C++_Logo.svg.png) |
 |:-----------------:|:-----------------:|:----------------------:|
 | Google Colab | Notion | C++ |
 
@@ -53,22 +53,22 @@ My main interests lie in **Natural Language Processing** and **Data Science** �
 ## 📂 Project Highlights  
 
 - 📊 **Medicoz:**  
-  ![Medicoz](assets/images/medicoz.png)  
+  ![Medicoz](assets/images/medicos.jpg)  
   An AI-driven health management platform that provides personalized health insights and recommendations.  
   [GitHub Repository](https://github.com/yourusername/medicoz)
 
 - 📝 **NER with CRF:**  
-  ![NER with CRF](assets/images/ner_crf.png)  
+  ![NER with CRF](assets/images/ner.jpeg)  
   A Natural Language Processing project using Conditional Random Fields for Named Entity Recognition.  
   [GitHub Repository](https://github.com/yourusername/ner-with-crf)
 
 - 😷 **Real-time Face Mask Detection:**  
-  ![Face Mask Detection](assets/images/face_mask_detection.png)  
+  ![Face Mask Detection](assets/images/face_mask.jpg)  
   A computer vision system that detects face masks in real-time using deep learning.  
-  [GitHub Repository](https://github.com/yourusername/face-mask-detection)
+  [GitHub Repository](https://github.com/yourusername/face_mask-detection)
 
 - 🌍 **Earthquake Prediction System:**  
-  ![Earthquake Prediction](assets/images/earthquake_prediction.png)  
+  ![Earthquake Prediction](assets/images/earthquake.jpeg)  
   A machine learning model to predict earthquakes based on seismic data.  
   [GitHub Repository](https://github.com/yourusername/earthquake-prediction)
 
