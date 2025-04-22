@@ -87,3 +87,25 @@ This README is designed to reflect the layout of the portfolio website. The webs
 
 The layout is implemented using a flexbox structure for a clean and responsive design.
 
+# Portfolio Website Layout
+
+This portfolio website is designed with the following layout:
+
+## Left Sidebar
+- Profile image
+- Name and title
+- Quick links (Email, LinkedIn, GitHub)
+
+## Main Content
+- About Me
+- Projects
+- Tech Stack
+- Certificates & Achievements
+
+### Design
+The layout is implemented using a flexbox structure for a clean and responsive design.
+
+### File Structure
+- `index.html`: Contains the structure of the website.
+- `styles.css`: Contains the styles for the website.
+
