@@ -31,8 +31,8 @@ This portfolio website is designed with a **two-column layout**:
 2. **Right Main Content:**  
    - About Me  
    - Projects  
-   - Tech Stack  
    - Certificates & Achievements  
+   - Publications  
 
 The layout is implemented using a **flexbox structure** for a clean and responsive design.
 
@@ -89,41 +89,10 @@ I aspire to lead **AI-driven software development teams**, creating products tha
 
 ---
 
-## 💡 Layout Description  
+## 📚 Publications  
 
-This README is designed to reflect the layout of the portfolio website. The website includes:  
-1. **Left Sidebar:**  
-   - Profile image  
-   - Name and title  
-   - Quick links (Email, LinkedIn, GitHub, Mobile)  
+- Talebi S., et al. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022.  
+- Fernando, B.A., et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-Fine Scales.  
+- Lary, D.J., et al. Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health.
 
-2. **Main Content:**  
-   - About Me  
-   - Projects  
-   - Tech Stack  
-   - Certificates & Achievements  
-
-The layout is implemented using a flexbox structure for a clean and responsive design.
-
-# Portfolio Website Layout
-
-This portfolio website is designed with the following layout:
-
-## Left Sidebar
-- Profile image
-- Name and title
-- Quick links (Email, LinkedIn, GitHub)
-
-## Main Content
-- About Me
-- Projects
-- Tech Stack
-- Certificates & Achievements
-
-### Design
-The layout is implemented using a flexbox structure for a clean and responsive design.
-
-### File Structure
-- `index.html`: Contains the structure of the website.
-- `styles.css`: Contains the styles for the website.
-
+---

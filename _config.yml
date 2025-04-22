@@ -23,3 +23,25 @@ sidebar:
       url: https://leetcode.com/your-leetcode
     - text: Email
       url: mailto:brajeshguptaa1@gmail.com
+
+# Additional sections for the website
+sections:
+  - title: About Me
+    content: >
+      I’m a **prefinal year B.Tech Computer Science student** at Lovely Professional University, specializing in **Machine Learning**. I’m passionate about building AI-powered solutions that make everyday life smarter and simpler.
+  - title: Projects
+    content: >
+      - 📊 **Medicoz:** AI-driven health management platform  
+      - 📝 **NER with CRF:** NLP-based entity recognition system  
+      - 😷 **Real-time Face Mask Detection**  
+      - 🌍 **Earthquake Prediction System**
+  - title: Certificates & Achievements
+    content: >
+      - **Deep Learning Specialization (Coursera)**  
+      - **Smart India Hackathon 2024 Finalist**  
+      - **Typing Speed: 100 WPM**
+  - title: Publications
+    content: >
+      - Talebi S., et al. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022.  
+      - Fernando, B.A., et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-Fine Scales.  
+      - Lary, D.J., et al. Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health.
