@@ -1,6 +1,24 @@
 # 📌 Personal Portfolio Website
 
-![Profile Picture](assets/images/profile.jpg){: style="float: left; margin-right: 20px; width: 150px; border-radius: 50%;" }
+<div style="display: flex; align-items: center;">
+  <img src="assets/images/profile.jpg" alt="Profile Picture" style="float: left; margin-right: 20px; width: 100px; border-radius: 50%;">
+
+  <div>
+    <h2>Welcome to My Portfolio</h2>
+    <p>This is a brief introduction about me...</p>
+
+    <div>
+      <h3>Contact & Links</h3>
+      <ul>
+        <li><a href="https://github.com/LazyCoderForU" target="_blank">GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a></li>
+        <li><a href="https://leetcode.com/your-leetcode" target="_blank">LeetCode</a></li>
+        <li><a href="mailto:brajeshguptaa1@gmail.com">brajeshguptaa1@gmail.com</a></li>
+        <!-- Add more links here -->
+      </ul>
+    </div>
+  </div>
+</div>
 
 # Welcome to My Portfolio
 
