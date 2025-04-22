@@ -1,42 +1,26 @@
 ![Profile Picture](/portfolio/assets/img/profile.jpg)
 
 # 🌟 Brajesh Kumar's Portfolio 🌟  
-**Machine Learning Engineer | AI Enthusiast**
-
+**Machine Learning Engineer | AI Enthusiast** 
 ---
 
 ## 📞 Contact & Links  
-- 📧 Email: [brajesh350194@gmail.com](mailto:brajesh350194@gmail.com)  
-- 💼 LinkedIn: [brajesh-gupta](https://linkedin.com/in/brajesh-gupta)  
-- 🐙 GitHub: [@LazyCoderForU](https://github.com/LazyCoderForU)  
-- 📱 Mobile: +91-7979911811  
+- ![Email Icon](assets/icons/email.png) 📧 Email: [brajesh350194@gmail.com](mailto:brajesh350194@gmail.com)  
+- ![LinkedIn Icon](assets/icons/linkedin.png) 💼 LinkedIn: [brajesh-gupta](https://linkedin.com/in/brajesh-gupta)  
+- ![GitHub Icon](assets/icons/github.png) 🐙 GitHub: [@LazyCoderForU](https://github.com/LazyCoderForU)  
+- ![Phone Icon](assets/icons/phone.png) 📱 Mobile: +91-7979911811  
 
 ---
 
 ## 🌐 Welcome  
 
-Welcome to my **Personal Portfolio Website**, a space to showcase my skills, projects, and professional journey in **Machine Learning**, **Data Science**, and AI-powered solutions.  
+![deep learning](assets\images\deeplearning.avif)
+
+Welcome to my **Personal Portfolio Website**, a space to showcase my skills, projects, and professional journey in **Machine Learning**, **Data Science**, and AI-powered solutions. 
 Deployed and live via **GitHub Pages** using the `jekyll-theme-minimal` theme!  
 
 ---
 
-## 💡 Layout Description  
-
-This portfolio website is designed with a **two-column layout**:  
-1. **Left Sidebar:**  
-   - Profile image  
-   - Name and title  
-   - Quick links (Email, LinkedIn, GitHub, Mobile)  
-
-2. **Right Main Content:**  
-   - About Me  
-   - Projects  
-   - Certificates & Achievements  
-   - Publications  
-
-The layout is implemented using a **flexbox structure** for a clean and responsive design.
-
----
 
 ## 📌 About Me  
 
@@ -68,10 +52,25 @@ My main interests lie in **Natural Language Processing** and **Data Science** �
 
 ## 📂 Project Highlights  
 
-- 📊 **Medicoz:** AI-driven health management platform  
-- 📝 **NER with CRF:** NLP-based entity recognition system  
-- 😷 **Real-time Face Mask Detection**  
-- 🌍 **Earthquake Prediction System**
+- 📊 **Medicoz:**  
+  ![Medicoz](assets/images/medicoz.png)  
+  An AI-driven health management platform that provides personalized health insights and recommendations.  
+  [GitHub Repository](https://github.com/yourusername/medicoz)
+
+- 📝 **NER with CRF:**  
+  ![NER with CRF](assets/images/ner_crf.png)  
+  A Natural Language Processing project using Conditional Random Fields for Named Entity Recognition.  
+  [GitHub Repository](https://github.com/yourusername/ner-with-crf)
+
+- 😷 **Real-time Face Mask Detection:**  
+  ![Face Mask Detection](assets/images/face_mask_detection.png)  
+  A computer vision system that detects face masks in real-time using deep learning.  
+  [GitHub Repository](https://github.com/yourusername/face-mask-detection)
+
+- 🌍 **Earthquake Prediction System:**  
+  ![Earthquake Prediction](assets/images/earthquake_prediction.png)  
+  A machine learning model to predict earthquakes based on seismic data.  
+  [GitHub Repository](https://github.com/yourusername/earthquake-prediction)
 
 ---
 
@@ -86,13 +85,5 @@ I aspire to lead **AI-driven software development teams**, creating products tha
 - **Deep Learning Specialization (Coursera)**  
 - **Smart India Hackathon 2024 Finalist**  
 - **Typing Speed: 100 WPM**
-
----
-
-## 📚 Publications  
-
-- Talebi S., et al. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022.  
-- Fernando, B.A., et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-Fine Scales.  
-- Lary, D.J., et al. Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health.
 
 ---
