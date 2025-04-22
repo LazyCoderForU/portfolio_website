@@ -1,4 +1,4 @@
-title: Brajesh Kumar
+title: Brajesh Kumar's Portfolio
 logo: /portfolio/assets/img/headshot_circle.png
 description: "Machine Learning Engineer | AI Enthusiast"
 theme: minima
@@ -9,6 +9,11 @@ sidebar:
   profile_image: /portfolio/assets/img/headshot_circle.png
   name: Brajesh Kumar
   title: Machine Learning Engineer | AI Enthusiast
+  details:
+    - 📧 Email: [brajesh350194@gmail.com](mailto:brajesh350194@gmail.com)
+    - 💼 LinkedIn: [brajesh-gupta](https://linkedin.com/in/brajesh-gupta)
+    - 🐙 GitHub: [@LazyCoderForU](https://github.com/LazyCoderForU)
+    - 📱 Mobile: +91-7979911811
   links:
     - text: GitHub
       url: https://github.com/LazyCoderForU

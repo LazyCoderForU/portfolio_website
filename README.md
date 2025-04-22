@@ -1,18 +1,22 @@
-![Profile Picture](/portfolio/assets/img/headshot_circle.png)
+![Profile Picture](/portfolio/assets/img/profile.jpg)
 
-## Brajesh Kumar  
+# 🌟 Brajesh Kumar's Portfolio 🌟  
 **Machine Learning Engineer | AI Enthusiast**
-
-### Contact & Links  
-- [GitHub](https://github.com/LazyCoderForU)  
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- [LeetCode](https://leetcode.com/your-leetcode)  
-- [Email](mailto:brajeshguptaa1@gmail.com)  
 
 ---
 
+## 📞 Contact & Links  
+- 📧 Email: [brajesh350194@gmail.com](mailto:brajesh350194@gmail.com)  
+- 💼 LinkedIn: [brajesh-gupta](https://linkedin.com/in/brajesh-gupta)  
+- 🐙 GitHub: [@LazyCoderForU](https://github.com/LazyCoderForU)  
+- 📱 Mobile: +91-7979911811  
+
+---
+
+## 🌐 Welcome  
+
 Welcome to my **Personal Portfolio Website**, a space to showcase my skills, projects, and professional journey in **Machine Learning**, **Data Science**, and AI-powered solutions.  
-Deployed and live via **GitHub Pages**!
+Deployed and live via **GitHub Pages**!  
 
 ---
 
@@ -24,7 +28,7 @@ My main interests lie in **Natural Language Processing** and **Data Science** �
 
 ---
 
-## 🛠️ Tech Stack Showcase  
+## 🛠️ Tech Stack  
 
 | ![Python](/portfolio/assets/images/python.jpg) | ![C](/portfolio/assets/images/c.png) | ![Java](/portfolio/assets/images/java.png) | ![Docker](/portfolio/assets/images/docker.png) |  
 |:----------------:|:--------------:|:-------------:|:----------------:|
@@ -67,22 +71,13 @@ I aspire to lead **AI-driven software development teams**, creating products tha
 
 ---
 
-## 📞 Contact  
-
-- 📧 Email: [brajesh350194@gmail.com](mailto:brajesh350194@gmail.com)  
-- 💼 LinkedIn: [brajesh-gupta](https://linkedin.com/in/brajesh-gupta)  
-- 🐙 GitHub: [@LazyCoderForU](https://github.com/LazyCoderForU)  
-- 📱 Mobile: +91-7979911811  
-
----
-
 ## 💡 Layout Description  
 
 This README is designed to reflect the layout of the portfolio website. The website includes:  
 1. **Left Sidebar:**  
    - Profile image  
    - Name and title  
-   - Quick links (Email, LinkedIn, GitHub)  
+   - Quick links (Email, LinkedIn, GitHub, Mobile)  
 
 2. **Main Content:**  
    - About Me  
