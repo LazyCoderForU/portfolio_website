@@ -1,5 +1,13 @@
 # 📌 Personal Portfolio Website
 
+<div style="display: flex; align-items: center;">
+  <img src="assets/images/profile.png" alt="Profile Picture" style="border-radius: 50%; width: 120px; margin-right: 20px;"/>
+  <div>
+    <h2>Brajesh Kumar</h2>
+    <p>Machine Learning Engineer | AI Enthusiast</p>
+  </div>
+</div>
+
 Welcome to my **Personal Portfolio Website**, a space to showcase my skills, projects, and professional journey in **Machine Learning**, **Data Science**, and AI-powered solutions.  
 Deployed and live via **GitHub Pages**!
 
