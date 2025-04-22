@@ -1,4 +1,4 @@
-![Profile Picture](/portfolio/assets/images/profile.jpg)
+![Profile Picture](/portfolio/assets/img/headshot_circle.png)
 
 ## Brajesh Kumar  
 **Machine Learning Engineer | AI Enthusiast**
@@ -14,7 +14,6 @@
 Welcome to my **Personal Portfolio Website**, a space to showcase my skills, projects, and professional journey in **Machine Learning**, **Data Science**, and AI-powered solutions.  
 Deployed and live via **GitHub Pages**!
 
----
 ---
 
 ## 📌 About Me  

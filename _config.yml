@@ -1,5 +1,20 @@
-title: Shaw Talebi
-logo: /assets/img/headshot_circle.png
-description: "Welcome to my portfolio"
+title: Brajesh Kumar
+logo: /portfolio/assets/img/headshot_circle.png
+description: "Machine Learning Engineer | AI Enthusiast"
 theme: minima
 show_downloads: true
+
+# Sidebar configuration
+sidebar:
+  profile_image: /portfolio/assets/img/headshot_circle.png
+  name: Brajesh Kumar
+  title: Machine Learning Engineer | AI Enthusiast
+  links:
+    - text: GitHub
+      url: https://github.com/LazyCoderForU
+    - text: LinkedIn
+      url: https://www.linkedin.com/in/your-linkedin
+    - text: LeetCode
+      url: https://leetcode.com/your-leetcode
+    - text: Email
+      url: mailto:brajeshguptaa1@gmail.com
