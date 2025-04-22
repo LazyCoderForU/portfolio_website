@@ -7,7 +7,7 @@
     <h2>Brajesh Kumar</h2>
     <p>Machine Learning Engineer | AI Enthusiast</p>
     <h3>Contact & Links</h3>
-    <ul style="list-style: none; padding: 0;">
+    <ul style="list-style: none; padding: 0; text-align: left;">
       <li><a href="https://github.com/LazyCoderForU" target="_blank">GitHub</a></li>
       <li><a href="https://www.linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a></li>
       <li><a href="https://leetcode.com/your-leetcode" target="_blank">LeetCode</a></li>
@@ -17,8 +17,6 @@
 
   <!-- Main Content -->
   <div style="flex: 1; padding-left: 20px;">
-    # Welcome to My Portfolio
-
     Welcome to my **Personal Portfolio Website**, a space to showcase my skills, projects, and professional journey in **Machine Learning**, **Data Science**, and AI-powered solutions.  
     Deployed and live via **GitHub Pages**!
 
