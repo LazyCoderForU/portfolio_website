@@ -15,9 +15,8 @@
     </ul>
   </div>
 
-  <!-- Main Content -->
-  <div style="flex: 1; padding-left: 20px;">
-    Welcome to my **Personal Portfolio Website**, a space to showcase my skills, projects, and professional journey in **Machine Learning**, **Data Science**, and AI-powered solutions.  
+
+Welcome to my **Personal Portfolio Website**, a space to showcase my skills, projects, and professional journey in **Machine Learning**, **Data Science**, and AI-powered solutions.  
     Deployed and live via **GitHub Pages**!
 
     ---
@@ -102,5 +101,4 @@
        - Certificates & Achievements  
 
     The layout is implemented using a flexbox structure for a clean and responsive design.
-  </div>
-</div>
+
