@@ -16,7 +16,25 @@
 ## 🌐 Welcome  
 
 Welcome to my **Personal Portfolio Website**, a space to showcase my skills, projects, and professional journey in **Machine Learning**, **Data Science**, and AI-powered solutions.  
-Deployed and live via **GitHub Pages**!  
+Deployed and live via **GitHub Pages** using the `jekyll-theme-minimal` theme!  
+
+---
+
+## 💡 Layout Description  
+
+This portfolio website is designed with a **two-column layout**:  
+1. **Left Sidebar:**  
+   - Profile image  
+   - Name and title  
+   - Quick links (Email, LinkedIn, GitHub, Mobile)  
+
+2. **Right Main Content:**  
+   - About Me  
+   - Projects  
+   - Tech Stack  
+   - Certificates & Achievements  
+
+The layout is implemented using a **flexbox structure** for a clean and responsive design.
 
 ---
 

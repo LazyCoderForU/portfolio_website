@@ -1,7 +1,7 @@
 title: Brajesh Kumar's Portfolio
-logo: /portfolio/assets/img/headshot_circle.png
+logo: /portfolio/assets/img/profile.jpg
 description: "Machine Learning Engineer | AI Enthusiast"
-theme: minima
+theme: jekyll-theme-minimal
 show_downloads: true
 
 # Sidebar configuration
