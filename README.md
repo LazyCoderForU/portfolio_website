@@ -1,5 +1,4 @@
-![Profile Picture](assets/images/profile.jpg)
-
+<img src="assets/images/profile.jpg" alt="Profile Picture" width="150" height="150">
 # 🌟 Brajesh Kumar's Portfolio 🌟  
 **Machine Learning Engineer | AI Enthusiast** 
 ---
@@ -58,7 +57,7 @@ My main interests lie in **Natural Language Processing** and **Data Science** �
   [GitHub Repository](https://github.com/yourusername/medicoz)
 
 - 📝 **NER with CRF:**  
-  ![NER with CRF](assets/images/ner.jpeg)  
+  ![NER with CRF](assets\images\medicos.jpg)  
   A Natural Language Processing project using Conditional Random Fields for Named Entity Recognition.  
   [GitHub Repository](https://github.com/yourusername/ner-with-crf)
 
