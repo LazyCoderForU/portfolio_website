@@ -4,7 +4,7 @@ Welcome to my **Personal Portfolio Website**, a space to showcase my skills, pro
 Deployed and live via **GitHub Pages**!
 
 ## 🌐 Live Demo  
-👉 [Visit My Portfolio](https://lazycoderforu.github.io)
+👉 [Visit My Portfolio](https://lazycoderforu.github.io/portfolio)
 
 ## 📌 About Me  
 
