@@ -12,19 +12,25 @@ I’m a **prefinal year B.Tech Computer Science student** at Lovely Professional
 
 My main interests lie in **Natural Language Processing** and **Data Science** — turning complex data into meaningful, actionable insights.  
 
-**Key Projects:**
-- **Named Entity Recognition using a CRF model** (F1: 94%)
-- **Real-time Face Mask Detection** (Accuracy: 98%)
-- **Disease Diagnosis & Doctor Recommendation System** (with fuzzy logic and ML)
-- **Earthquake Prediction System** (Accuracy: 90%)
+## 🛠️ Tech Stack Showcase  
 
-Apart from tech, I’m a **typing enthusiast (100 WPM)**, a workflow optimizer, and a learner exploring **psychology, neurology, and philosophy**.
+| ![Python](assets/images/python.jpg) | ![C](assets/images/c.png) | ![Java](assets/images/java.png) | ![Docker](assets/images/docker.png) |  
+|:----------------:|:--------------:|:-------------:|:----------------:|
+| Python | C | Java | Docker |
 
-## 🛠️ Tech Stack  
-- **Languages:** Python, C++, Java, SQL, Bash  
-- **Frameworks & Libraries:** TensorFlow, Keras, scikit-learn, OpenCV, NLTK, spaCy, Hugging Face Transformers  
-- **Tools & Platforms:** Git, GitHub, Docker, AWS, pandas, NumPy, Matplotlib, Seaborn, Plotly  
-- **Hosting:** GitHub Pages  
+| ![TensorFlow](assets/images/tensorflow.png) | ![NumPy](assets/images/numpy.png) | ![Pandas](assets/images/pandas.png) | ![scikit-learn](assets/images/sk learn.png) |
+|:----------------:|:--------------:|:--------------:|:------------------|
+| TensorFlow | NumPy | Pandas | scikit-learn |
+
+| ![Git](assets/images/git.png) | ![GitHub](assets/images/github.png) | ![Jupyter](assets/images/jupyter.png) | ![Anaconda](assets/images/anaconda.png) |
+|:---------------:|:----------------:|:----------------:|:------------------|
+| Git | GitHub | Jupyter | Anaconda |
+
+| ![Google Colab](assets/images/colab.png) | ![Notion](assets/images/notion.png) | ![C++](assets/images/ISO_C++_Logo.svg.png) |
+|:-----------------:|:-----------------:|:----------------------|
+| Google Colab | Notion | C++ |
+
+---
 
 ## 📂 Project Highlights  
 - 📊 **Medicoz:** AI-driven health management platform  
@@ -42,4 +48,3 @@ I aspire to lead **AI-driven software development teams**, creating products tha
 - 📱 Mobile: +91-7979911811  
 
 ---
-
