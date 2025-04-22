@@ -1,14 +1,14 @@
-![Profile Picture](/portfolio/assets/img/profile.jpg)
+![Profile Picture](/portfolio/assets/images/profile.jpg)
 
 # 🌟 Brajesh Kumar's Portfolio 🌟  
 **Machine Learning Engineer | AI Enthusiast** 
 ---
 
 ## 📞 Contact & Links  
-- ![Email Icon](assets/icons/email.png) 📧 Email: [brajesh350194@gmail.com](mailto:brajesh350194@gmail.com)  
-- ![LinkedIn Icon](assets/icons/linkedin.png) 💼 LinkedIn: [brajesh-gupta](https://linkedin.com/in/brajesh-gupta)  
-- ![GitHub Icon](assets/icons/github.png) 🐙 GitHub: [@LazyCoderForU](https://github.com/LazyCoderForU)  
-- ![Phone Icon](assets/icons/phone.png) 📱 Mobile: +91-7979911811  
+- ![Email Icon](assets/images/email.png) 📧 Email: [brajesh350194@gmail.com](mailto:brajesh350194@gmail.com)  
+- ![LinkedIn Icon](assets/images/linkedin.png) 💼 LinkedIn: [brajesh-gupta](https://linkedin.com/in/brajesh-gupta)  
+- ![GitHub Icon](assets/images/github.png) 🐙 GitHub: [@LazyCoderForU](https://github.com/LazyCoderForU)  
+- ![Phone Icon](assets/images/phone.png) 📱 Mobile: +91-7979911811  
 
 ---
 
