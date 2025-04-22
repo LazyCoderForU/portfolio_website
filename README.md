@@ -14,7 +14,7 @@
 
 ## 🌐 Welcome  
 
-![deep learning](assets\images\deeplearning.avif)
+![deep learning](assets/images/deeplearning.avif)
 
 Welcome to my **Personal Portfolio Website**, a space to showcase my skills, projects, and professional journey in **Machine Learning**, **Data Science**, and AI-powered solutions. 
 Deployed and live via **GitHub Pages** using the `jekyll-theme-minimal` theme!  
