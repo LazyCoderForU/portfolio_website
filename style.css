@@ -189,6 +189,36 @@ body {
     text-decoration: underline;
 }
 
+/* Certificates and Achievements Section */
+#certificates img, #achievements img {
+    width: 600px; /* 3 times the original width (200px * 3) */
+    height: auto;
+    display: inline-block; /* Align images horizontally */
+    margin: 20px; /* Add spacing between images */
+}
+
+#certificates li, #achievements li {
+    display: flex;
+    flex-direction: column; /* Stack image and text vertically */
+    align-items: center; /* Center align the content */
+    justify-content: flex-end; /* Push text to the bottom */
+    text-align: center;
+    margin: 20px;
+}
+
+#certificates img, #achievements img {
+    margin-bottom: 10px; /* Add spacing between image and text */
+}
+
+/* Align the list items horizontally */
+#certificates ul, #achievements ul {
+    display: flex;
+    flex-wrap: wrap; /* Allow wrapping for smaller screens */
+    justify-content: center; /* Center align the images */
+    padding: 0;
+    list-style: none; /* Remove default list styling */
+}
+
 /* Responsive Design */
 
 @media (max-width: 1200px) {
