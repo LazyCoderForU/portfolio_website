@@ -1,0 +1,107 @@
+WEBSITE PORTFOLIO FORMAT: PROFILE OF Brajesh Kumar
+
+1. Welcome to My Portfolio! 
+
+About Me
+Hi, I’m Brajesh Kumar, a B.Tech Computer Science student at Lovely Professional University, specializing in Full-Stack Development, Artificial Intelligence, and Cloud Computing. I’m passionate about creating scalable, efficient applications and have solid skills in both front-end and back-end development. Continuously growing my expertise in emerging technologies.
+
+📞 Contact: +91 98765 43210  
+📧 Email: brajesh.kumar@example.com  
+🔗 LinkedIn  
+🐱 GitHub  
+📂 Download My CV  
+
+---
+
+2. Skills & Technologies  
+
+### Programming Languages  
+- Python (Advanced)  
+- R (Intermediate)  
+- SQL (Advanced)  
+- Java (Basic)  
+
+### Machine Learning & AI  
+- Scikit-learn (Advanced)  
+- TensorFlow (Intermediate)  
+- Keras (Intermediate)  
+- OpenCV (Intermediate)  
+
+### Data Science & Analytics  
+- NumPy (Advanced)  
+- Pandas (Advanced)  
+- Matplotlib (Advanced)  
+- Seaborn (Advanced)  
+
+### Big Data & Databases  
+- MySQL (Intermediate)  
+- MongoDB (Intermediate)  
+- Hadoop (Basic)  
+
+### Cloud & DevOps  
+- AWS (Intermediate)  
+- Docker (Intermediate)  
+- Google Colab (Advanced)  
+- Git & GitHub (Advanced)  
+
+---
+
+3. Projects  
+
+**NER using CRF App (Named Entity Recognition)**  
+Developed a Named Entity Recognition (NER) system using Conditional Random Fields (CRF) for identifying and classifying entities in text (like names, dates, locations). Built a user-friendly web application interface with Streamlit for real-time input and entity recognition.  
+**Tech Stack**: Python, CRF++, Streamlit, Pandas, NLTK  
+
+**Real-Time Face Mask Detection using OpenCV**  
+Created a real-time face mask detection system using OpenCV and Deep Learning techniques. The application uses the webcam feed to detect faces and classify whether a person is wearing a mask or not. Integrated TensorFlow/Keras CNN model for accurate detection, displayed results in real-time with bounding boxes and labels.  
+**Tech Stack**: Python, OpenCV, TensorFlow, Keras, NumPy  
+
+---
+
+4. Certifications & Courses  
+- Complete Interview Preparation - by GFG  
+- Development in Flutter - by Programming Pathsala  
+- 100 Days of Code: The Complete Python Pro Bootcamp for 2023 - by Udemy  
+
+---
+
+5. Experience (Internships & Work)  
+
+**NGO — Digital Specialist & Trainer (June 2021 – March 2022)**  
+**Roles and Responsibilities**:  
+- Conducted digital literacy workshops for underprivileged students, covering basic computer operations, internet usage, and online safety.  
+- Trained students in Microsoft Office tools, Google applications, and social media awareness.  
+- Designed and delivered interactive, beginner-friendly content and training materials to enhance engagement and learning outcomes.  
+- Supported NGO initiatives by managing their social media presence and helping implement digital tools for event promotions and community outreach.  
+
+**Tools & Technologies Used**: MS Office, Google Workspace, Canva, Social Media Platforms  
+
+---
+
+6. Competitions, Hackathons, & Achievements  
+
+- **One among Dean’s top 10% students at University**:  
+  For good academic performance and extra-curricular activities at University.  
+
+- **⌨️ Achieved Typing Speed of 100 WPM**:  
+  Demonstrated exceptional typing speed of 100 words per minute (WPM) with high accuracy, showcasing strong efficiency and productivity in digital environments.  
+
+- **📄 Accepted Research Paper on NER using CRF Model**:  
+  Research paper titled “Named Entity Recognition using Conditional Random Fields (CRF) Model” accepted for publication and presentation at a National/International Conference, focusing on Natural Language Processing (NLP) and Machine Learning techniques.  
+  **Status**: Accepted for publication  
+
+---
+
+7. 🌐 Online Presence  
+- **GitHub**: [github.com/brajeshkumar](https://github.com/brajeshkumar)  
+  Showcasing my repositories, open-source contributions, and various projects related to Machine Learning, Data Science, and Web Development.  
+
+- **LinkedIn**: [linkedin.com/in/brajesh-kumar](https://linkedin.com/in/brajesh-kumar)  
+  Connecting with professionals, sharing my achievements, and collaborating on innovative projects in technology, data science, and AI.  
+
+---
+
+8. Resume  
+Add a downloadable resume (PDF format).  
+
+📥 Resume
