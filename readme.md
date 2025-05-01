@@ -1,54 +1,97 @@
-# Brajesh Kumar's Portfolio
+# 🌟 Brajesh Kumar's Portfolio
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, achievements, and contact information in a visually appealing and organized manner.
+A personal portfolio showcasing projects, skills, achievements, and more.
 
-## 🌟 About
+---
 
-This portfolio is designed to highlight my expertise as a Machine Learning Engineer and AI enthusiast. It includes sections for my tech stack, project highlights, certifications, achievements, testimonials, and contact details.
+## 📝 Description
 
-## 🛠️ Tech Stack
+This portfolio highlights:
+- Key projects in Machine Learning, AI, and Data Science.
+- Certifications, achievements, and testimonials.
+- Contact information and resume for professional opportunities.
 
-The portfolio is built using the following technologies:
-- **HTML5**: For structuring the content.
-- **CSS3**: For styling and layout.
-- **JavaScript** (optional): For interactivity (if needed in future updates).
+**Problem it solves:**  
+Provides a comprehensive overview of my technical expertise and accomplishments in a visually appealing format.
 
-## 📂 Project Highlights
+---
 
-Some of the featured projects include:
-1. **Medicoz**: An AI-driven health management platform.
-2. **NER with CRF**: A Natural Language Processing project for Named Entity Recognition.
-3. **Real-time Face Mask Detection**: A computer vision system for detecting face masks.
-4. **Earthquake Prediction System**: A machine learning model for seismic data analysis.
+## 🚀 Installation
 
-## 📜 Certificates & Achievements
-
-- Deep Learning Specialization (Coursera)
-- Smart India Hackathon 2024 Finalist
-- Certified Kubernetes Administrator (CKA) 2024
-
-## 📝 Testimonials
-
-Read what mentors, professors, and colleagues have to say about my work ethic, technical skills, and contributions.
-
-## 📞 Contact
-
-Feel free to reach out to me via:
-- **Email**: [brajesh350194@gmail.com](mailto:brajesh350194@gmail.com)
-- **LinkedIn**: [brajesh-gupta](https://www.linkedin.com/in/brajesh-gupta-5204b8253)
-- **GitHub**: [@LazyCoderForU](https://github.com/LazyCoderForU)
-
-## 🚀 How to Run
+To run this portfolio locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/LazyCoderForU/portfolio.git
+   git clone https://github.com/yourusername/portfolio.git
+   cd portfolio
    ```
-2. Open `index.html` in your browser to view the portfolio.
 
-## ❤️ Acknowledgments
-
-This portfolio was built with passion and dedication. Thank you for visiting!
+2. Open `index.html` in your browser.
 
 ---
-© 2025 Brajesh Kumar. Built with ❤️
+
+## 📦 Usage
+
+Simply open the `index.html` file in any modern web browser to view the portfolio.
+
+---
+
+## 🖼️ Screenshots / Demo
+
+![Portfolio Screenshot](assets/images/portfolio_screenshot.png)
+
+---
+
+## 🧠 Tech Stack / Built With
+
+- **Languages:** HTML, CSS
+- **Tools:** Visual Studio Code, Git
+
+---
+
+## 🧪 Testing
+
+No automated tests are included. Open the `index.html` file in a browser to verify functionality.
+
+---
+
+## 📂 Project Structure
+
+```bash
+portfolio/
+├── assets/
+│   ├── images/
+│   ├── certifcation_images/
+├── index.html
+├── style.css
+└── README.md
+```
+
+---
+
+## 🙌 Contributing
+
+Contributions are welcome!  
+Feel free to fork the repository, make changes, and submit a pull request.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+**Brajesh Kumar**  
+- 📧 [brajeshguptaa1@gmail.com](mailto:brajeshguptaa1@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/brajesh-kumar-5204b8253)  
+- 🐙 [GitHub](https://github.com/LazyCoderForU)
+
+---
+
+## 🌐 Links
+
+- [Live Portfolio](#) (Add the deployed link here)
+- [Resume](https://drive.google.com/file/d/1rKyOCgiXJRh9ey34Y6SbC-JH2b5Z5OCx/view?usp=sharing)
