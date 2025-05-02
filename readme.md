@@ -87,7 +87,7 @@ This project is licensed under the MIT License.
 **Brajesh Kumar**  
 - 📧 [brajeshguptaa1@gmail.com](mailto:brajeshguptaa1@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/brajesh-kumar-5204b8253)  
-- 🐙 [GitHub](https://github.com/LazyCoderForU)
+- 🐙 [GitHub](https://github.com/LazyCoderForU)  
 
 ---
 

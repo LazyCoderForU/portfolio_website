@@ -1,222 +1,288 @@
 /* Global Styles */
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    background-color: #f9f9f9;
-  }
-  
-  header {
-    background-color: #004080;
-    color: white;
-    padding: 40px 20px;
-    text-align: center;
-  }
-  
-  header img {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    margin-bottom: 20px;
-  }
-  
-  header h1 {
-    font-size: 2.5rem;
-    margin: 10px 0;
-  }
-  
-  header p {
-    font-size: 1.2rem;
-    margin: 10px 0;
-  }
-  
-  nav a {
-    color: white;
-    margin: 0 15px;
-    text-decoration: none;
-    font-weight: bold;
-  }
-  
-  nav a:hover {
-    text-decoration: underline;
-  }
-  
-  /* Section Styles */
-  section {
-    padding: 40px 20px;
-    margin: 20px 0;
-    border-radius: 8px;
-  }
-  
-  h2 {
-    font-size: 2rem;
-    margin-bottom: 20px;
-    color: #333;
-  }
-  
-  /* Skills Section */
-  .skills-categories {
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-  }
-  
-  .skills-card {
-    width: 30%;
-    margin-bottom: 20px;
-  }
-  
-  .skills-grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 10px;
-  }
-  
-  .skills-grid img {
-    width: 70px;
-    height: 70px;
-    /* object-fit: cover; */
-  }
-  
-  /* Project Section */
-  .project {
-    background-color: #ffffff;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    margin-bottom: 20px;
-    padding: 20px;
-  }
-  
-  .project img {
-    width: 100%;
-    border-radius: 8px;
-  }
-  
-  .project a {
-    color: #004080;
-    font-weight: bold;
-    text-decoration: none;
-  }
-  
-  .project a:hover {
-    text-decoration: underline;
-  }
-  
-  /* Testimonials Section */
-  .testimonial {
-    background-color: #fff;
-    border-left: 5px solid #004080;
-    margin-bottom: 20px;
-    padding: 15px;
-    font-style: italic;
-  }
-  
-  .testimonial p {
-    margin: 0;
-    font-size: 1.1rem;
-  }
-  
-  /* Contact Section */
-  #contact img {
-    width: 25px;
-    margin-right: 10px;
-  }
-  
-  #contact a {
-    color: #004080;
-    text-decoration: none;
-    font-weight: bold;
-  }
-  
-  #contact a:hover {
-    text-decoration: underline;
-  }
-  
-  /* Footer Styles */
-  footer {
-    background-color: #004080;
-    color: white;
-    text-align: center;
-    padding: 20px;
-  }
-
-  /* Project Section */
-.projects-grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr); /* Four equal columns */
-    gap: 20px; /* Space between grid items */
-    padding: 20px;
+  font-family: 'Roboto', sans-serif;
+  background-color: #121212; /* Dark background */
+  color: black; /* Set default text color to black */
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
 }
 
-.project-card {
-    text-align: center;
-    background-color: #ffffff;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 15px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+header {
+  background: linear-gradient(90deg, #007bff, #0056b3); /* Blue gradient */
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
 }
 
-.project_image {
-    width: 100%; /* Ensure images take full width of the card */
-    height: 200px; /* Fixed height for uniformity */
-    object-fit: cover; /* Maintain aspect ratio and crop if necessary */
-    border-radius: 8px;
-    margin-bottom: 10px;
+header img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  font-size: 2.5rem;
+  margin: 0;
+  color: white; /* Keep specified text white */
+}
+
+header p {
+  font-size: 1.2rem;
+  margin: 10px 0 20px;
+  color: white; /* Keep specified text white */
+}
+
+header nav a {
+  color: white; /* Keep specified text white */
+  font-weight: bold;
+  margin: 0 15px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+header nav a:hover {
+  color: #ffdd57;
+}
+
+/* Section Styles */
+section {
+  margin: 40px auto;
+  max-width: 1200px;
+  padding: 20px;
+  background: #1e1e1e; /* Darker section background */
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  color: #f0f0f0; /* Light text for better visibility */
+}
+
+h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #007bff; /* Keep section headings blue */
+  text-align: center;
+}
+
+/* Skills Section */
+.skills-categories {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.skills-card {
+  width: 30%;
+  margin-bottom: 20px;
+}
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 20px;
+  justify-items: center;
+}
+
+.skills-grid img {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  border-radius: 8px;
+  background-color: #333;
+  padding: 10px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.skills-grid img:hover {
+  transform: scale(1.1); /* Slightly enlarge the image */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Add a shadow effect */
+}
+
+/* Update text color for better visibility */
+.skills-card h3, .skills-grid img + span, .project-card h3 {
+  color: #007bff; /* Bright blue for better visibility */
+}
+
+.skills-grid img + span {
+  display: block;
+  margin-top: 5px;
+  font-weight: bold;
 }
 
 .project-card h3 {
-    margin: 10px 0;
-    font-size: 1.2em;
-    color: #333;
+  color: #007bff; /* Bright blue for project titles */
+  font-size: 1.2rem;
+  margin-top: 10px;
 }
 
-.project-card p {
-    font-size: 0.9em;
-    color: #555;
+/* Project Section */
+.projects-grid {
+  display: flex;
+  overflow-x: auto;
+  gap: 20px;
+  padding: 10px;
+  scroll-snap-type: x mandatory;
+}
+
+.project-card {
+  background-color: #ffffff; /* White background */
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  padding: 30px; /* Increased padding by 30% */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: auto; /* Allow the card to expand */
+}
+
+.project-card img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 15px;
+  border-radius: 8px;
 }
 
 .project-card a {
-    display: inline-block;
-    margin-top: 10px;
-    color: #004080;
-    text-decoration: none;
-    font-weight: bold;
+  margin-top: 10px;
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
 }
 
-.project-card a:hover {
-    text-decoration: underline;
+.project-card:hover {
+  transform: scale(1.05);
+}
+
+.project-card img {
+  width: 100%; /* Ensure the image takes the full width of the card */
+  height: auto; /* Maintain aspect ratio */
+  max-height: 200px; /* Limit the height to prevent overflow */
+  object-fit: cover; /* Ensure the image fits within the container */
+  border-radius: 8px; /* Add rounded corners */
+}
+
+.project {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.project img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.project a {
+  color: #004080;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.project a:hover {
+  text-decoration: underline;
+}
+
+/* Testimonials Section */
+.testimonial {
+  background-color: #fff;
+  border-left: 5px solid #004080;
+  margin-bottom: 20px;
+  padding: 15px;
+  font-style: italic;
+}
+
+.testimonial p {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+/* Contact Section */
+#contact img {
+  width: 25px;
+  margin-right: 10px;
+}
+
+#contact a {
+  color: #004080;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#contact a:hover {
+  text-decoration: underline;
+}
+
+/* Footer Styles */
+footer {
+  background-color: #004080;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+footer p {
+  color: white; /* Keep specified text white */
 }
 
 /* Certificates and Achievements Section */
 #certificates img, #achievements img {
-    width: 600px; /* 3 times the original width (200px * 3) */
-    height: auto;
-    display: inline-block; /* Align images horizontally */
-    margin: 20px; /* Add spacing between images */
+  width: 600px; /* 3 times the original width (200px * 3) */
+  height: auto;
+  display: inline-block; /* Align images horizontally */
+  margin: 20px; /* Add spacing between images */
 }
 
 #certificates li, #achievements li {
-    display: flex;
-    flex-direction: column; /* Stack image and text vertically */
-    align-items: center; /* Center align the content */
-    justify-content: flex-end; /* Push text to the bottom */
-    text-align: center;
-    margin: 20px;
+  display: flex;
+  flex-direction: column; /* Stack image and text vertically */
+  align-items: center; /* Center align the content */
+  justify-content: flex-end; /* Push text to the bottom */
+  text-align: center;
+  margin: 20px;
 }
 
 #certificates img, #achievements img {
-    margin-bottom: 10px; /* Add spacing between image and text */
+  margin-bottom: 10px; /* Add spacing between image and text */
+}
+
+#achievements img {
+  width: auto; /* Revert to original width */
+  height: auto; /* Revert to original height */
+  object-fit: initial; /* Remove enforced aspect ratio */
+  border-radius: initial; /* Remove rounded corners */
+  margin: initial; /* Remove added spacing */
+}
+
+/* Add hover effect for certificates and achievements */
+#certificates img, #achievements img {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+#certificates img:hover, #achievements img:hover {
+  transform: scale(1.05); /* Slightly enlarge the image */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Add a shadow effect */
 }
 
 /* Align the list items horizontally */
 #certificates ul, #achievements ul {
-    display: flex;
-    flex-wrap: wrap; /* Allow wrapping for smaller screens */
-    justify-content: center; /* Center align the images */
-    padding: 0;
-    list-style: none; /* Remove default list styling */
+  display: flex;
+  flex-wrap: wrap; /* Allow wrapping for smaller screens */
+  justify-content: center; /* Center align the images */
+  padding: 0;
+  list-style: none; /* Remove default list styling */
+}
+
+.award-icon {
+  width: 300px; /* Set consistent width */
+  height: 300px; /* Set consistent height */
+  object-fit: cover; /* Ensure the image maintains its aspect ratio */
+  vertical-align: middle;
+  margin-right: 10px;
 }
 
 /* Responsive Design */
@@ -284,4 +350,22 @@ body {
   h2 {
     font-size: 1.5rem;
   }
+}
+
+button {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+#about, #testimonials {
+  color: black; /* Set text color to black for better readability */
 }
